@@ -9,7 +9,7 @@
 </div>
 
 
-<table class="table table-bordered table-hover ">
+<table style="color: #0f0f0f" class="table table-bordered table-hover ">
     <thead>
     <tr>
         <th>Specialne poziadavky_ID</th>
